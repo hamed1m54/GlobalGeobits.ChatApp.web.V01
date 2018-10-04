@@ -8,9 +8,9 @@
 
 # Screen-Shot
 
-![alt text](https://drive.google.com/file/d/1rqrVOOV4TSGHSqXPRa4YgKo_G-WFAnmX/view?usp=sharing)
+![alt text](https://github.com/hamed1m54/GlobalGeobits.ChatApp.web.V01/blob/master/Capture1.PNG)
 
-![alt text](https://drive.google.com/open?id=1tp6PaCeubHx9BI0rmGuySu6IfZchKEcB)
+![alt text](https://github.com/hamed1m54/GlobalGeobits.ChatApp.web.V01/blob/master/Capture2.PNG)
 
 
 ## Used Technologies
