@@ -1171,9 +1171,9 @@ namespace GlobalGeobits.ChatApp.web
    * implement the connect method in chathub class to enable private chat
    * saving the users messages history to the Database which alredy exiestes
    * Update the online user list using Ajax or just using SignalR
-=======
+
   
->>>>>>> 75e7efce3c8df060b1f503509b2f4c6ab4ad8864
+
 
 ## Authors
 
