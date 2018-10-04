@@ -1,0 +1,71 @@
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\GlobalGeobits.ChatApp.web.dll.config
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\GlobalGeobits.ChatApp.web.dll
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\GlobalGeobits.ChatApp.web.pdb
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\Antlr3.Runtime.dll
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\EntityFramework.dll
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\EntityFramework.SqlServer.dll
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\Newtonsoft.Json.dll
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\System.Web.Helpers.dll
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\System.Web.Mvc.dll
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\System.Web.Optimization.dll
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\System.Web.Razor.dll
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\System.Web.WebPages.Deployment.dll
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\System.Web.WebPages.dll
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\System.Web.WebPages.Razor.dll
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\WebGrease.dll
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\EntityFramework.xml
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\EntityFramework.SqlServer.xml
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\System.Web.Helpers.xml
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\System.Web.Mvc.xml
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\System.Web.Optimization.xml
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\System.Web.Razor.xml
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\System.Web.WebPages.xml
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\System.Web.WebPages.Deployment.xml
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\System.Web.WebPages.Razor.xml
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\Antlr3.Runtime.pdb
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\bin\Newtonsoft.Json.xml
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\obj\Debug\GlobalGeobits.ChatApp.web.dll
+c:\users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\obj\Debug\GlobalGeobits.ChatApp.web.pdb
+C:\Users\dina\documents\visual studio 2013\Projects\GlobalGeobits.ChatApp\GlobalGeobits.ChatApp.web\obj\Debug\GlobalGeobits.ChatApp.web.csprojResolveAssemblyReference.cache
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\obj\Debug\GlobalGeobits.ChatApp.web.csprojResolveAssemblyReference.cache
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\GlobalGeobits.ChatApp.web.dll.config
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\GlobalGeobits.ChatApp.web.dll
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\GlobalGeobits.ChatApp.web.pdb
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\Antlr3.Runtime.dll
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\EntityFramework.dll
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\EntityFramework.SqlServer.dll
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\Microsoft.Owin.dll
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\Microsoft.Owin.Security.dll
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\Newtonsoft.Json.dll
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\Owin.dll
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\System.Web.Helpers.dll
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\System.Web.Mvc.dll
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\System.Web.Optimization.dll
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\System.Web.Razor.dll
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\System.Web.WebPages.dll
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\System.Web.WebPages.Razor.dll
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\WebGrease.dll
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\EntityFramework.xml
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\EntityFramework.SqlServer.xml
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\Microsoft.Owin.xml
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\Microsoft.Owin.Security.xml
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\System.Web.Helpers.xml
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\System.Web.Mvc.xml
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\System.Web.Optimization.xml
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\System.Web.Razor.xml
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\System.Web.WebPages.xml
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\System.Web.WebPages.Razor.xml
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\Antlr3.Runtime.pdb
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\bin\Newtonsoft.Json.xml
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\obj\Debug\GlobalGeobits.ChatApp.web.dll
+C:\Users\dina\Downloads\Compressed\GlobalGeobits.ChatApp-master_2\GlobalGeobits.ChatApp-master\GlobalGeobits.ChatApp.web\obj\Debug\GlobalGeobits.ChatApp.web.pdb
