@@ -83,7 +83,9 @@ namespace GlobalGeobits.ChatApp.web.Controllers
         public ActionResult Thanks(string id)
         {
 
-          return  ViewBag.userName = id;
+          ViewBag.userName = id;
+          
+          return View();
         }
               
 
